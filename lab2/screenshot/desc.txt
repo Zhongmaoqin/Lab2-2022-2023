@@ -1,0 +1,1 @@
+There will be two pages, the home page is all the available mobile phones, and after clicking Purchase, it will jump to the order page
